@@ -1,0 +1,361 @@
+query,intent
+Is size 11 in stock?,size_question
+Is this available in S?,size_question
+Do you have umbrella in One Size?,size_question
+What sizes do you have?,size_question
+What sizes do you have?,size_question
+Do you have L?,size_question
+Is this available in XL?,size_question
+Do you have sweater in S?,size_question
+Do you have sunglasses in One Size?,size_question
+Do you have backpack in One Size?,size_question
+Is size 10 in stock?,size_question
+What sizes do you have?,size_question
+Can I get this in XXL?,size_question
+Is this available in 9?,size_question
+Do you have One Size?,size_question
+Do you have M?,size_question
+Do you have tie in One Size?,size_question
+Can I get this in M?,size_question
+What sizes do you have?,size_question
+Do you have 8?,size_question
+Is this available in XL?,size_question
+Is this available in M?,size_question
+Do you have One Size?,size_question
+Is size XL in stock?,size_question
+Can I get this in XXL?,size_question
+Do you have L?,size_question
+Do you have jacket in XL?,size_question
+Do you have blouse in S?,size_question
+Do you have 11?,size_question
+Do you have One Size?,size_question
+Is size L in stock?,size_question
+Is size M in stock?,size_question
+Do you have One Size?,size_question
+Is this available in 13?,size_question
+What sizes do you have?,size_question
+Do you have One Size?,size_question
+Can I get this in One Size?,size_question
+Do you have XXL?,size_question
+Do you have One Size?,size_question
+Do you have One Size?,size_question
+What sizes do you have?,size_question
+What sizes do you have?,size_question
+Is this available in M?,size_question
+Can I get this in 11?,size_question
+Do you have XS?,size_question
+Can I get this in M?,size_question
+Do you have hiking boots in 6?,size_question
+What sizes do you have?,size_question
+Do you have belt in One Size?,size_question
+Can I get this in One Size?,size_question
+Is this available in S?,size_question
+Is this available in L?,size_question
+Do you have umbrella in One Size?,size_question
+Is size One Size in stock?,size_question
+Do you have L?,size_question
+Do you have One Size?,size_question
+Do you have 10?,size_question
+Can I get this in One Size?,size_question
+What sizes do you have?,size_question
+Can I get this in 12?,size_question
+How much does this cost?,price_inquiry
+Is this on sale?,price_inquiry
+What's the price?,price_inquiry
+What's the price?,price_inquiry
+What's the price?,price_inquiry
+Is this on sale?,price_inquiry
+What's your price range for beanie?,price_inquiry
+What's your price range for watch?,price_inquiry
+What's your price range for belt?,price_inquiry
+What's your price range for t-shirt?,price_inquiry
+What's your price range for dress?,price_inquiry
+How much is it?,price_inquiry
+How much does this cost?,price_inquiry
+What's the price?,price_inquiry
+How much is it?,price_inquiry
+Is this on sale?,price_inquiry
+How much is it?,price_inquiry
+How much is it?,price_inquiry
+Do you have anything under $28?,price_inquiry
+How much is it?,price_inquiry
+How much does this cost?,price_inquiry
+Is this on sale?,price_inquiry
+What's your price range for casual loafers?,price_inquiry
+How much does this cost?,price_inquiry
+How much is it?,price_inquiry
+How much does this cost?,price_inquiry
+How much is it?,price_inquiry
+What's your price range for headphones?,price_inquiry
+What's the price?,price_inquiry
+How much is it?,price_inquiry
+What's your price range for sunglasses?,price_inquiry
+What's your price range for high heels?,price_inquiry
+What's the price?,price_inquiry
+How much does this cost?,price_inquiry
+Do you have anything under $40?,price_inquiry
+What's the price?,price_inquiry
+How much does this cost?,price_inquiry
+How much does this cost?,price_inquiry
+Is this on sale?,price_inquiry
+Do you have anything under $81?,price_inquiry
+How much is it?,price_inquiry
+How much is it?,price_inquiry
+What's the price?,price_inquiry
+How much is it?,price_inquiry
+How much is it?,price_inquiry
+Is this on sale?,price_inquiry
+Is this on sale?,price_inquiry
+How much does this cost?,price_inquiry
+What's your price range for sunglasses?,price_inquiry
+How much is it?,price_inquiry
+What's the price?,price_inquiry
+How much does this cost?,price_inquiry
+Do you have anything under $24?,price_inquiry
+What's the price?,price_inquiry
+How much is it?,price_inquiry
+Do you have anything under $31?,price_inquiry
+What's the price?,price_inquiry
+Do you have anything under $20?,price_inquiry
+What's the price?,price_inquiry
+Is this on sale?,price_inquiry
+How many are left?,availability_check
+How many are left?,availability_check
+Is it in stock?,availability_check
+How many are left?,availability_check
+Do you have gray in stock?,availability_check
+Do you have gray in stock?,availability_check
+When can you deliver?,availability_check
+Can I get it tomorrow?,availability_check
+Do you have black in stock?,availability_check
+How many are left?,availability_check
+Is hoodie available now?,availability_check
+How many are left?,availability_check
+Do you have red in stock?,availability_check
+Is it in stock?,availability_check
+How many are left?,availability_check
+How many are left?,availability_check
+Is it in stock?,availability_check
+Is it in stock?,availability_check
+Can I get it tomorrow?,availability_check
+Is it in stock?,availability_check
+Is it in stock?,availability_check
+Do you have white in stock?,availability_check
+When can you deliver?,availability_check
+Is beanie available now?,availability_check
+Is it in stock?,availability_check
+Is it in stock?,availability_check
+Is it in stock?,availability_check
+Is it in stock?,availability_check
+Is it in stock?,availability_check
+Is dress available now?,availability_check
+How many are left?,availability_check
+How many are left?,availability_check
+Can I get it tomorrow?,availability_check
+How many are left?,availability_check
+Is it in stock?,availability_check
+How many are left?,availability_check
+Can I get it tomorrow?,availability_check
+Can I get it tomorrow?,availability_check
+When can you deliver?,availability_check
+Is it in stock?,availability_check
+Is it in stock?,availability_check
+How many are left?,availability_check
+Is it in stock?,availability_check
+Can I get it tomorrow?,availability_check
+Do you have yellow in stock?,availability_check
+When can you deliver?,availability_check
+Is it in stock?,availability_check
+Is slip-ons available now?,availability_check
+When can you deliver?,availability_check
+Is tank top available now?,availability_check
+When can you deliver?,availability_check
+Do you have gray in stock?,availability_check
+Is socks available now?,availability_check
+Do you have brown in stock?,availability_check
+Can I get it tomorrow?,availability_check
+How many are left?,availability_check
+Is it in stock?,availability_check
+Can I get it tomorrow?,availability_check
+Is casual loafers available now?,availability_check
+Do you have blue in stock?,availability_check
+What accessories do you have?,product_search
+What products are available?,product_search
+What products are available?,product_search
+Show me brown hat,product_search
+What clothing do you have?,product_search
+Do you have any tank top in red?,product_search
+What products are available?,product_search
+Show me blue jeans,product_search
+What clothing do you have?,product_search
+What clothing do you have?,product_search
+What products are available?,product_search
+Do you have any jeans in black?,product_search
+Show me white hoodie,product_search
+Can you show me your shoes?,product_search
+What products are available?,product_search
+Can you show me your accessories?,product_search
+Can you show me your clothing?,product_search
+Do you have any casual loafers in navy?,product_search
+Show me red high heels,product_search
+What products are available?,product_search
+Do you have any tank top in green?,product_search
+What products are available?,product_search
+What clothing do you have?,product_search
+Can you show me your clothing?,product_search
+Do you have any slip-ons in gray?,product_search
+Can you show me your accessories?,product_search
+What products are available?,product_search
+Do you sell basketball shoes?,product_search
+What products are available?,product_search
+What products are available?,product_search
+Do you sell tank top?,product_search
+What products are available?,product_search
+Show me black sweater,product_search
+What products are available?,product_search
+What accessories do you have?,product_search
+What accessories do you have?,product_search
+Can you show me your shoes?,product_search
+What products are available?,product_search
+Do you have any jacket in purple?,product_search
+What accessories do you have?,product_search
+What products are available?,product_search
+What products are available?,product_search
+Do you sell sweater?,product_search
+What accessories do you have?,product_search
+Do you have any tie in green?,product_search
+Do you sell wallet?,product_search
+Do you have any scarf in green?,product_search
+Can you show me your accessories?,product_search
+What shoes do you have?,product_search
+Do you sell sandals?,product_search
+Show me pink long sleeve shirt,product_search
+What products are available?,product_search
+Do you sell scarf?,product_search
+Do you have any baseball cap in brown?,product_search
+Do you have any headphones in green?,product_search
+What products are available?,product_search
+Show me green backpack,product_search
+What products are available?,product_search
+Show me blue umbrella,product_search
+Show me red headphones,product_search
+"blue blouse in XXL, in stock now?",complex_multicriteria
+"white flip flops in 12, in stock now?",complex_multicriteria
+white casual loafers under $66 in 13?,complex_multicriteria
+"Do you have bag in One Size, under $35?",complex_multicriteria
+"Do you have t-shirt in XS, under $33?",complex_multicriteria
+"Do you have watch in One Size, under $23?",complex_multicriteria
+"Do you have casual loafers in 10, under $25?",complex_multicriteria
+"orange dress in XXL, in stock now?",complex_multicriteria
+"Do you have tie in One Size, under $91?",complex_multicriteria
+orange tank top under $78 in XXL?,complex_multicriteria
+"Do you have t-shirt in S, under $99?",complex_multicriteria
+"navy sandals in 8, in stock now?",complex_multicriteria
+"white tie in One Size, in stock now?",complex_multicriteria
+gray dress under $45 in M?,complex_multicriteria
+"blue t-shirt in S, in stock now?",complex_multicriteria
+"Do you have beanie in One Size, under $100?",complex_multicriteria
+"Do you have beanie in One Size, under $81?",complex_multicriteria
+yellow polo shirt under $85 in XS?,complex_multicriteria
+"Do you have umbrella in One Size, under $59?",complex_multicriteria
+"Do you have casual loafers in 8, under $73?",complex_multicriteria
+"Do you have headphones in One Size, under $48?",complex_multicriteria
+gray beanie under $86 in One Size?,complex_multicriteria
+brown hat under $58 in One Size?,complex_multicriteria
+blue tie under $83 in One Size?,complex_multicriteria
+"red basketball shoes in 12, in stock now?",complex_multicriteria
+"red gloves in One Size, in stock now?",complex_multicriteria
+"Do you have belt in One Size, under $76?",complex_multicriteria
+black hiking boots under $63 in 6?,complex_multicriteria
+"red casual loafers in 8, in stock now?",complex_multicriteria
+"Do you have baseball cap in One Size, under $48?",complex_multicriteria
+beige sandals under $66 in 6?,complex_multicriteria
+"brown high heels in 6, in stock now?",complex_multicriteria
+green socks under $60 in One Size?,complex_multicriteria
+white headphones under $38 in One Size?,complex_multicriteria
+"purple long sleeve shirt in L, in stock now?",complex_multicriteria
+beige flip flops under $41 in 9?,complex_multicriteria
+brown running sneakers under $94 in 8?,complex_multicriteria
+"Do you have blouse in XS, under $30?",complex_multicriteria
+black hat under $84 in One Size?,complex_multicriteria
+blue gloves under $94 in One Size?,complex_multicriteria
+"Do you have hat in One Size, under $77?",complex_multicriteria
+white tie under $65 in One Size?,complex_multicriteria
+red headphones under $21 in One Size?,complex_multicriteria
+"gray sunglasses in One Size, in stock now?",complex_multicriteria
+brown hat under $65 in One Size?,complex_multicriteria
+"orange tank top in L, in stock now?",complex_multicriteria
+"brown tie in One Size, in stock now?",complex_multicriteria
+"green t-shirt in XS, in stock now?",complex_multicriteria
+"Do you have headphones in One Size, under $56?",complex_multicriteria
+"Do you have hiking boots in 7, under $85?",complex_multicriteria
+"Do you have flip flops in 9, under $75?",complex_multicriteria
+"brown high heels in 10, in stock now?",complex_multicriteria
+"Do you have sunglasses in One Size, under $68?",complex_multicriteria
+"blue scarf in One Size, in stock now?",complex_multicriteria
+"Do you have belt in One Size, under $88?",complex_multicriteria
+blue headphones under $27 in One Size?,complex_multicriteria
+"navy hiking boots in 8, in stock now?",complex_multicriteria
+"Do you have scarf in One Size, under $33?",complex_multicriteria
+"pink blouse in L, in stock now?",complex_multicriteria
+red sunglasses under $32 in One Size?,complex_multicriteria
+Do you have a loyalty program?,other
+Can I return items?,other
+What do you recommend?,other
+What do you recommend?,other
+Do you have a loyalty program?,other
+Can I return items?,other
+How long is shipping?,other
+What's your return policy?,other
+Do you ship to Phnom Penh?,other
+Can I return items?,other
+Do you have a loyalty program?,other
+How long is shipping?,other
+Do you ship to Phnom Penh?,other
+What's your return policy?,other
+What do you recommend?,other
+Can I return items?,other
+How long is shipping?,other
+Can I return items?,other
+Do you ship to Phnom Penh?,other
+Do you have a loyalty program?,other
+Do you ship to Phnom Penh?,other
+What do you recommend?,other
+What do you recommend?,other
+What do you recommend?,other
+Do you ship to Phnom Penh?,other
+Can I return items?,other
+What's your return policy?,other
+Do you ship to Phnom Penh?,other
+Can I return items?,other
+How long is shipping?,other
+Do you ship to Phnom Penh?,other
+How long is shipping?,other
+Do you have a loyalty program?,other
+What's your return policy?,other
+What's your return policy?,other
+Can I return items?,other
+What do you recommend?,other
+Can I return items?,other
+What's your return policy?,other
+Can I return items?,other
+Can I return items?,other
+What's your return policy?,other
+Do you have a loyalty program?,other
+Can I return items?,other
+Do you ship to Phnom Penh?,other
+Do you have a loyalty program?,other
+Do you ship to Phnom Penh?,other
+Can I return items?,other
+How long is shipping?,other
+What's your return policy?,other
+Do you ship to Phnom Penh?,other
+Do you ship to Phnom Penh?,other
+Do you ship to Phnom Penh?,other
+What do you recommend?,other
+Do you ship to Phnom Penh?,other
+What's your return policy?,other
+Can I return items?,other
+Can I return items?,other
+What's your return policy?,other
+What's your return policy?,other

@@ -1,0 +1,301 @@
+product_id,name,color,category,price,available_sizes,stock_XS,stock_S,stock_M,stock_L,stock_XL,stock_XXL,stock_5,stock_6,stock_7,stock_8,stock_9,stock_10,stock_11,stock_12,stock_13,stock_One_Size
+C_P001,T-Shirt,Blue,Clothing,55.48,"XS,S,M,L,XL,XXL",20.0,12.0,23.0,22.0,14.0,21.0,,,,,,,,,,
+C_P002,T-Shirt,Red,Clothing,55.48,"XS,S,M,L,XL,XXL",9.0,25.0,5.0,4.0,24.0,10.0,,,,,,,,,,
+C_P003,T-Shirt,White,Clothing,55.48,"XS,S,M,L,XL,XXL",12.0,5.0,10.0,6.0,15.0,11.0,,,,,,,,,,
+C_P004,T-Shirt,Black,Clothing,55.48,"XS,S,M,L,XL,XXL",17.0,23.0,14.0,8.0,14.0,14.0,,,,,,,,,,
+C_P005,T-Shirt,Green,Clothing,55.48,"XS,S,M,L,XL,XXL",9.0,24.0,11.0,25.0,24.0,23.0,,,,,,,,,,
+C_P006,T-Shirt,Yellow,Clothing,55.48,"XS,S,M,L,XL,XXL",5.0,22.0,23.0,8.0,20.0,10.0,,,,,,,,,,
+C_P007,T-Shirt,Pink,Clothing,55.48,"XS,S,M,L,XL,XXL",8.0,17.0,15.0,11.0,23.0,25.0,,,,,,,,,,
+C_P008,T-Shirt,Purple,Clothing,55.48,"XS,S,M,L,XL,XXL",20.0,10.0,24.0,13.0,4.0,10.0,,,,,,,,,,
+C_P009,T-Shirt,Gray,Clothing,55.48,"XS,S,M,L,XL,XXL",4.0,13.0,15.0,11.0,5.0,9.0,,,,,,,,,,
+C_P010,T-Shirt,Orange,Clothing,55.48,"XS,S,M,L,XL,XXL",21.0,25.0,13.0,9.0,23.0,18.0,,,,,,,,,,
+C_P011,Dress,Blue,Clothing,13.7,"XS,S,M,L,XL,XXL",15.0,23.0,17.0,7.0,11.0,7.0,,,,,,,,,,
+C_P012,Dress,Red,Clothing,13.7,"XS,S,M,L,XL,XXL",10.0,20.0,20.0,11.0,21.0,16.0,,,,,,,,,,
+C_P013,Dress,White,Clothing,13.7,"XS,S,M,L,XL,XXL",21.0,15.0,14.0,10.0,7.0,19.0,,,,,,,,,,
+C_P014,Dress,Black,Clothing,13.7,"XS,S,M,L,XL,XXL",18.0,5.0,4.0,6.0,7.0,23.0,,,,,,,,,,
+C_P015,Dress,Green,Clothing,13.7,"XS,S,M,L,XL,XXL",8.0,24.0,16.0,22.0,5.0,15.0,,,,,,,,,,
+C_P016,Dress,Yellow,Clothing,13.7,"XS,S,M,L,XL,XXL",15.0,22.0,17.0,19.0,11.0,20.0,,,,,,,,,,
+C_P017,Dress,Pink,Clothing,13.7,"XS,S,M,L,XL,XXL",3.0,24.0,6.0,24.0,20.0,11.0,,,,,,,,,,
+C_P018,Dress,Purple,Clothing,13.7,"XS,S,M,L,XL,XXL",23.0,13.0,6.0,12.0,16.0,8.0,,,,,,,,,,
+C_P019,Dress,Gray,Clothing,13.7,"XS,S,M,L,XL,XXL",17.0,3.0,11.0,19.0,8.0,19.0,,,,,,,,,,
+C_P020,Dress,Orange,Clothing,13.7,"XS,S,M,L,XL,XXL",6.0,23.0,12.0,23.0,19.0,22.0,,,,,,,,,,
+C_P021,Jeans,Blue,Clothing,30.7,"XS,S,M,L,XL,XXL",9.0,7.0,14.0,8.0,20.0,19.0,,,,,,,,,,
+C_P022,Jeans,Red,Clothing,30.7,"XS,S,M,L,XL,XXL",3.0,22.0,13.0,18.0,3.0,6.0,,,,,,,,,,
+C_P023,Jeans,White,Clothing,30.7,"XS,S,M,L,XL,XXL",14.0,12.0,10.0,4.0,10.0,21.0,,,,,,,,,,
+C_P024,Jeans,Black,Clothing,30.7,"XS,S,M,L,XL,XXL",5.0,5.0,18.0,5.0,20.0,7.0,,,,,,,,,,
+C_P025,Jeans,Green,Clothing,30.7,"XS,S,M,L,XL,XXL",7.0,24.0,18.0,20.0,8.0,11.0,,,,,,,,,,
+C_P026,Jeans,Yellow,Clothing,30.7,"XS,S,M,L,XL,XXL",19.0,22.0,16.0,9.0,20.0,25.0,,,,,,,,,,
+C_P027,Jeans,Pink,Clothing,30.7,"XS,S,M,L,XL,XXL",9.0,25.0,12.0,15.0,24.0,23.0,,,,,,,,,,
+C_P028,Jeans,Purple,Clothing,30.7,"XS,S,M,L,XL,XXL",14.0,17.0,19.0,17.0,6.0,10.0,,,,,,,,,,
+C_P029,Jeans,Gray,Clothing,30.7,"XS,S,M,L,XL,XXL",10.0,5.0,13.0,3.0,21.0,20.0,,,,,,,,,,
+C_P030,Jeans,Orange,Clothing,30.7,"XS,S,M,L,XL,XXL",10.0,21.0,10.0,3.0,5.0,25.0,,,,,,,,,,
+C_P031,Polo Shirt,Blue,Clothing,27.18,"XS,S,M,L,XL,XXL",23.0,4.0,10.0,5.0,4.0,13.0,,,,,,,,,,
+C_P032,Polo Shirt,Red,Clothing,27.18,"XS,S,M,L,XL,XXL",5.0,19.0,10.0,11.0,24.0,18.0,,,,,,,,,,
+C_P033,Polo Shirt,White,Clothing,27.18,"XS,S,M,L,XL,XXL",9.0,20.0,7.0,21.0,21.0,18.0,,,,,,,,,,
+C_P034,Polo Shirt,Black,Clothing,27.18,"XS,S,M,L,XL,XXL",10.0,18.0,16.0,9.0,6.0,6.0,,,,,,,,,,
+C_P035,Polo Shirt,Green,Clothing,27.18,"XS,S,M,L,XL,XXL",24.0,16.0,14.0,16.0,16.0,17.0,,,,,,,,,,
+C_P036,Polo Shirt,Yellow,Clothing,27.18,"XS,S,M,L,XL,XXL",4.0,24.0,23.0,23.0,6.0,4.0,,,,,,,,,,
+C_P037,Polo Shirt,Pink,Clothing,27.18,"XS,S,M,L,XL,XXL",15.0,13.0,6.0,10.0,9.0,9.0,,,,,,,,,,
+C_P038,Polo Shirt,Purple,Clothing,27.18,"XS,S,M,L,XL,XXL",20.0,17.0,7.0,16.0,8.0,11.0,,,,,,,,,,
+C_P039,Polo Shirt,Gray,Clothing,27.18,"XS,S,M,L,XL,XXL",17.0,10.0,5.0,17.0,20.0,6.0,,,,,,,,,,
+C_P040,Polo Shirt,Orange,Clothing,27.18,"XS,S,M,L,XL,XXL",4.0,23.0,20.0,3.0,5.0,10.0,,,,,,,,,,
+C_P041,Sweater,Blue,Clothing,62.08,"XS,S,M,L,XL,XXL",8.0,16.0,18.0,18.0,9.0,15.0,,,,,,,,,,
+C_P042,Sweater,Red,Clothing,62.08,"XS,S,M,L,XL,XXL",4.0,8.0,15.0,3.0,15.0,11.0,,,,,,,,,,
+C_P043,Sweater,White,Clothing,62.08,"XS,S,M,L,XL,XXL",17.0,12.0,16.0,25.0,20.0,24.0,,,,,,,,,,
+C_P044,Sweater,Black,Clothing,62.08,"XS,S,M,L,XL,XXL",25.0,18.0,7.0,9.0,12.0,9.0,,,,,,,,,,
+C_P045,Sweater,Green,Clothing,62.08,"XS,S,M,L,XL,XXL",4.0,21.0,20.0,4.0,13.0,4.0,,,,,,,,,,
+C_P046,Sweater,Yellow,Clothing,62.08,"XS,S,M,L,XL,XXL",4.0,21.0,18.0,19.0,19.0,8.0,,,,,,,,,,
+C_P047,Sweater,Pink,Clothing,62.08,"XS,S,M,L,XL,XXL",4.0,19.0,5.0,8.0,5.0,22.0,,,,,,,,,,
+C_P048,Sweater,Purple,Clothing,62.08,"XS,S,M,L,XL,XXL",5.0,24.0,10.0,15.0,6.0,21.0,,,,,,,,,,
+C_P049,Sweater,Gray,Clothing,62.08,"XS,S,M,L,XL,XXL",10.0,21.0,22.0,4.0,22.0,5.0,,,,,,,,,,
+C_P050,Sweater,Orange,Clothing,62.08,"XS,S,M,L,XL,XXL",16.0,24.0,21.0,21.0,19.0,13.0,,,,,,,,,,
+C_P051,Hoodie,Blue,Clothing,58.02,"XS,S,M,L,XL,XXL",11.0,9.0,24.0,25.0,13.0,10.0,,,,,,,,,,
+C_P052,Hoodie,Red,Clothing,58.02,"XS,S,M,L,XL,XXL",11.0,15.0,7.0,24.0,23.0,12.0,,,,,,,,,,
+C_P053,Hoodie,White,Clothing,58.02,"XS,S,M,L,XL,XXL",17.0,13.0,5.0,3.0,17.0,22.0,,,,,,,,,,
+C_P054,Hoodie,Black,Clothing,58.02,"XS,S,M,L,XL,XXL",21.0,6.0,5.0,20.0,9.0,19.0,,,,,,,,,,
+C_P055,Hoodie,Green,Clothing,58.02,"XS,S,M,L,XL,XXL",11.0,7.0,14.0,5.0,10.0,14.0,,,,,,,,,,
+C_P056,Hoodie,Yellow,Clothing,58.02,"XS,S,M,L,XL,XXL",12.0,8.0,17.0,20.0,25.0,12.0,,,,,,,,,,
+C_P057,Hoodie,Pink,Clothing,58.02,"XS,S,M,L,XL,XXL",22.0,23.0,19.0,3.0,24.0,20.0,,,,,,,,,,
+C_P058,Hoodie,Purple,Clothing,58.02,"XS,S,M,L,XL,XXL",12.0,24.0,6.0,7.0,11.0,6.0,,,,,,,,,,
+C_P059,Hoodie,Gray,Clothing,58.02,"XS,S,M,L,XL,XXL",6.0,20.0,7.0,11.0,12.0,22.0,,,,,,,,,,
+C_P060,Hoodie,Orange,Clothing,58.02,"XS,S,M,L,XL,XXL",9.0,25.0,13.0,9.0,24.0,23.0,,,,,,,,,,
+C_P061,Jacket,Blue,Clothing,72.67,"XS,S,M,L,XL,XXL",11.0,19.0,18.0,11.0,4.0,5.0,,,,,,,,,,
+C_P062,Jacket,Red,Clothing,72.67,"XS,S,M,L,XL,XXL",23.0,16.0,11.0,4.0,3.0,13.0,,,,,,,,,,
+C_P063,Jacket,White,Clothing,72.67,"XS,S,M,L,XL,XXL",7.0,23.0,11.0,8.0,17.0,20.0,,,,,,,,,,
+C_P064,Jacket,Black,Clothing,72.67,"XS,S,M,L,XL,XXL",25.0,16.0,20.0,3.0,6.0,5.0,,,,,,,,,,
+C_P065,Jacket,Green,Clothing,72.67,"XS,S,M,L,XL,XXL",25.0,7.0,20.0,4.0,14.0,21.0,,,,,,,,,,
+C_P066,Jacket,Yellow,Clothing,72.67,"XS,S,M,L,XL,XXL",20.0,7.0,16.0,7.0,4.0,12.0,,,,,,,,,,
+C_P067,Jacket,Pink,Clothing,72.67,"XS,S,M,L,XL,XXL",14.0,4.0,14.0,9.0,24.0,10.0,,,,,,,,,,
+C_P068,Jacket,Purple,Clothing,72.67,"XS,S,M,L,XL,XXL",24.0,6.0,14.0,20.0,16.0,22.0,,,,,,,,,,
+C_P069,Jacket,Gray,Clothing,72.67,"XS,S,M,L,XL,XXL",7.0,10.0,8.0,8.0,16.0,3.0,,,,,,,,,,
+C_P070,Jacket,Orange,Clothing,72.67,"XS,S,M,L,XL,XXL",8.0,13.0,16.0,24.0,10.0,11.0,,,,,,,,,,
+C_P071,Blouse,Blue,Clothing,17.91,"XS,S,M,L,XL,XXL",8.0,25.0,6.0,15.0,4.0,18.0,,,,,,,,,,
+C_P072,Blouse,Red,Clothing,17.91,"XS,S,M,L,XL,XXL",10.0,9.0,17.0,14.0,12.0,10.0,,,,,,,,,,
+C_P073,Blouse,White,Clothing,17.91,"XS,S,M,L,XL,XXL",10.0,3.0,24.0,9.0,15.0,13.0,,,,,,,,,,
+C_P074,Blouse,Black,Clothing,17.91,"XS,S,M,L,XL,XXL",11.0,5.0,11.0,14.0,23.0,19.0,,,,,,,,,,
+C_P075,Blouse,Green,Clothing,17.91,"XS,S,M,L,XL,XXL",15.0,24.0,20.0,13.0,3.0,6.0,,,,,,,,,,
+C_P076,Blouse,Yellow,Clothing,17.91,"XS,S,M,L,XL,XXL",11.0,8.0,21.0,11.0,4.0,6.0,,,,,,,,,,
+C_P077,Blouse,Pink,Clothing,17.91,"XS,S,M,L,XL,XXL",22.0,16.0,14.0,13.0,16.0,22.0,,,,,,,,,,
+C_P078,Blouse,Purple,Clothing,17.91,"XS,S,M,L,XL,XXL",19.0,6.0,15.0,21.0,9.0,11.0,,,,,,,,,,
+C_P079,Blouse,Gray,Clothing,17.91,"XS,S,M,L,XL,XXL",4.0,25.0,16.0,3.0,19.0,20.0,,,,,,,,,,
+C_P080,Blouse,Orange,Clothing,17.91,"XS,S,M,L,XL,XXL",24.0,24.0,9.0,14.0,16.0,5.0,,,,,,,,,,
+C_P081,Tank Top,Blue,Clothing,40.69,"XS,S,M,L,XL,XXL",24.0,13.0,22.0,13.0,24.0,6.0,,,,,,,,,,
+C_P082,Tank Top,Red,Clothing,40.69,"XS,S,M,L,XL,XXL",12.0,19.0,12.0,24.0,16.0,13.0,,,,,,,,,,
+C_P083,Tank Top,White,Clothing,40.69,"XS,S,M,L,XL,XXL",15.0,25.0,12.0,20.0,7.0,9.0,,,,,,,,,,
+C_P084,Tank Top,Black,Clothing,40.69,"XS,S,M,L,XL,XXL",16.0,24.0,15.0,24.0,8.0,22.0,,,,,,,,,,
+C_P085,Tank Top,Green,Clothing,40.69,"XS,S,M,L,XL,XXL",21.0,12.0,15.0,20.0,3.0,12.0,,,,,,,,,,
+C_P086,Tank Top,Yellow,Clothing,40.69,"XS,S,M,L,XL,XXL",12.0,9.0,16.0,21.0,22.0,23.0,,,,,,,,,,
+C_P087,Tank Top,Pink,Clothing,40.69,"XS,S,M,L,XL,XXL",13.0,17.0,17.0,17.0,24.0,9.0,,,,,,,,,,
+C_P088,Tank Top,Purple,Clothing,40.69,"XS,S,M,L,XL,XXL",19.0,18.0,8.0,24.0,5.0,12.0,,,,,,,,,,
+C_P089,Tank Top,Gray,Clothing,40.69,"XS,S,M,L,XL,XXL",19.0,24.0,23.0,22.0,13.0,5.0,,,,,,,,,,
+C_P090,Tank Top,Orange,Clothing,40.69,"XS,S,M,L,XL,XXL",10.0,24.0,12.0,10.0,9.0,7.0,,,,,,,,,,
+C_P091,Long Sleeve Shirt,Blue,Clothing,14.03,"XS,S,M,L,XL,XXL",3.0,4.0,10.0,18.0,22.0,5.0,,,,,,,,,,
+C_P092,Long Sleeve Shirt,Red,Clothing,14.03,"XS,S,M,L,XL,XXL",17.0,16.0,23.0,21.0,9.0,25.0,,,,,,,,,,
+C_P093,Long Sleeve Shirt,White,Clothing,14.03,"XS,S,M,L,XL,XXL",25.0,15.0,18.0,15.0,10.0,7.0,,,,,,,,,,
+C_P094,Long Sleeve Shirt,Black,Clothing,14.03,"XS,S,M,L,XL,XXL",23.0,25.0,3.0,6.0,16.0,10.0,,,,,,,,,,
+C_P095,Long Sleeve Shirt,Green,Clothing,14.03,"XS,S,M,L,XL,XXL",8.0,25.0,19.0,17.0,4.0,20.0,,,,,,,,,,
+C_P096,Long Sleeve Shirt,Yellow,Clothing,14.03,"XS,S,M,L,XL,XXL",10.0,6.0,17.0,7.0,17.0,24.0,,,,,,,,,,
+C_P097,Long Sleeve Shirt,Pink,Clothing,14.03,"XS,S,M,L,XL,XXL",19.0,20.0,22.0,13.0,17.0,22.0,,,,,,,,,,
+C_P098,Long Sleeve Shirt,Purple,Clothing,14.03,"XS,S,M,L,XL,XXL",19.0,16.0,20.0,17.0,8.0,18.0,,,,,,,,,,
+C_P099,Long Sleeve Shirt,Gray,Clothing,14.03,"XS,S,M,L,XL,XXL",17.0,11.0,10.0,23.0,11.0,19.0,,,,,,,,,,
+C_P100,Long Sleeve Shirt,Orange,Clothing,14.03,"XS,S,M,L,XL,XXL",18.0,23.0,10.0,11.0,17.0,5.0,,,,,,,,,,
+S_P101,Running Sneakers,Black,Shoes,52.33,"5,6,7,8,9,10,11,12,13",,,,,,,25.0,12.0,10.0,11.0,13.0,13.0,20.0,5.0,7.0,
+S_P102,Running Sneakers,White,Shoes,52.33,"5,6,7,8,9,10,11,12,13",,,,,,,7.0,10.0,15.0,25.0,7.0,25.0,9.0,5.0,16.0,
+S_P103,Running Sneakers,Blue,Shoes,52.33,"5,6,7,8,9,10,11,12,13",,,,,,,16.0,13.0,20.0,17.0,16.0,4.0,9.0,16.0,15.0,
+S_P104,Running Sneakers,Brown,Shoes,52.33,"5,6,7,8,9,10,11,12,13",,,,,,,21.0,25.0,3.0,21.0,15.0,18.0,3.0,14.0,12.0,
+S_P105,Running Sneakers,Red,Shoes,52.33,"5,6,7,8,9,10,11,12,13",,,,,,,15.0,16.0,20.0,20.0,22.0,10.0,18.0,10.0,11.0,
+S_P106,Running Sneakers,Gray,Shoes,52.33,"5,6,7,8,9,10,11,12,13",,,,,,,16.0,18.0,3.0,15.0,13.0,24.0,24.0,15.0,8.0,
+S_P107,Running Sneakers,Navy,Shoes,52.33,"5,6,7,8,9,10,11,12,13",,,,,,,17.0,7.0,22.0,20.0,3.0,15.0,21.0,21.0,24.0,
+S_P108,Running Sneakers,Beige,Shoes,52.33,"5,6,7,8,9,10,11,12,13",,,,,,,3.0,5.0,23.0,16.0,7.0,17.0,8.0,4.0,11.0,
+S_P109,Casual Loafers,Black,Shoes,88.17,"5,6,7,8,9,10,11,12,13",,,,,,,15.0,13.0,9.0,17.0,13.0,13.0,15.0,11.0,16.0,
+S_P110,Casual Loafers,White,Shoes,88.17,"5,6,7,8,9,10,11,12,13",,,,,,,11.0,5.0,18.0,3.0,20.0,4.0,14.0,10.0,23.0,
+S_P111,Casual Loafers,Blue,Shoes,88.17,"5,6,7,8,9,10,11,12,13",,,,,,,5.0,23.0,4.0,3.0,10.0,9.0,3.0,22.0,7.0,
+S_P112,Casual Loafers,Brown,Shoes,88.17,"5,6,7,8,9,10,11,12,13",,,,,,,10.0,7.0,18.0,24.0,6.0,21.0,9.0,17.0,25.0,
+S_P113,Casual Loafers,Red,Shoes,88.17,"5,6,7,8,9,10,11,12,13",,,,,,,11.0,14.0,8.0,22.0,22.0,25.0,6.0,8.0,12.0,
+S_P114,Casual Loafers,Gray,Shoes,88.17,"5,6,7,8,9,10,11,12,13",,,,,,,6.0,21.0,3.0,12.0,21.0,24.0,15.0,15.0,25.0,
+S_P115,Casual Loafers,Navy,Shoes,88.17,"5,6,7,8,9,10,11,12,13",,,,,,,9.0,5.0,21.0,25.0,23.0,10.0,6.0,25.0,12.0,
+S_P116,Casual Loafers,Beige,Shoes,88.17,"5,6,7,8,9,10,11,12,13",,,,,,,24.0,22.0,6.0,21.0,4.0,14.0,20.0,16.0,24.0,
+S_P117,Flip Flops,Black,Shoes,28.32,"5,6,7,8,9,10,11,12,13",,,,,,,14.0,5.0,19.0,23.0,13.0,3.0,16.0,18.0,6.0,
+S_P118,Flip Flops,White,Shoes,28.32,"5,6,7,8,9,10,11,12,13",,,,,,,16.0,14.0,23.0,17.0,25.0,7.0,16.0,8.0,19.0,
+S_P119,Flip Flops,Blue,Shoes,28.32,"5,6,7,8,9,10,11,12,13",,,,,,,23.0,11.0,22.0,20.0,18.0,17.0,16.0,21.0,11.0,
+S_P120,Flip Flops,Brown,Shoes,28.32,"5,6,7,8,9,10,11,12,13",,,,,,,13.0,10.0,5.0,11.0,17.0,10.0,17.0,21.0,22.0,
+S_P121,Flip Flops,Red,Shoes,28.32,"5,6,7,8,9,10,11,12,13",,,,,,,24.0,15.0,13.0,3.0,18.0,13.0,8.0,18.0,9.0,
+S_P122,Flip Flops,Gray,Shoes,28.32,"5,6,7,8,9,10,11,12,13",,,,,,,14.0,11.0,13.0,11.0,22.0,25.0,11.0,20.0,3.0,
+S_P123,Flip Flops,Navy,Shoes,28.32,"5,6,7,8,9,10,11,12,13",,,,,,,19.0,9.0,5.0,10.0,16.0,18.0,20.0,10.0,25.0,
+S_P124,Flip Flops,Beige,Shoes,28.32,"5,6,7,8,9,10,11,12,13",,,,,,,18.0,23.0,25.0,18.0,17.0,3.0,5.0,12.0,10.0,
+S_P125,Basketball Shoes,Black,Shoes,49.85,"5,6,7,8,9,10,11,12,13",,,,,,,15.0,25.0,10.0,12.0,24.0,21.0,14.0,18.0,20.0,
+S_P126,Basketball Shoes,White,Shoes,49.85,"5,6,7,8,9,10,11,12,13",,,,,,,19.0,14.0,16.0,20.0,13.0,14.0,25.0,17.0,11.0,
+S_P127,Basketball Shoes,Blue,Shoes,49.85,"5,6,7,8,9,10,11,12,13",,,,,,,12.0,11.0,10.0,6.0,9.0,13.0,6.0,20.0,25.0,
+S_P128,Basketball Shoes,Brown,Shoes,49.85,"5,6,7,8,9,10,11,12,13",,,,,,,8.0,9.0,9.0,18.0,11.0,21.0,19.0,22.0,12.0,
+S_P129,Basketball Shoes,Red,Shoes,49.85,"5,6,7,8,9,10,11,12,13",,,,,,,6.0,9.0,12.0,10.0,14.0,8.0,12.0,3.0,25.0,
+S_P130,Basketball Shoes,Gray,Shoes,49.85,"5,6,7,8,9,10,11,12,13",,,,,,,20.0,7.0,11.0,4.0,4.0,20.0,12.0,25.0,7.0,
+S_P131,Basketball Shoes,Navy,Shoes,49.85,"5,6,7,8,9,10,11,12,13",,,,,,,23.0,18.0,6.0,3.0,21.0,12.0,18.0,18.0,17.0,
+S_P132,Basketball Shoes,Beige,Shoes,49.85,"5,6,7,8,9,10,11,12,13",,,,,,,13.0,8.0,4.0,11.0,18.0,6.0,5.0,15.0,18.0,
+S_P133,Hiking Boots,Black,Shoes,106.24,"5,6,7,8,9,10,11,12,13",,,,,,,5.0,21.0,23.0,24.0,4.0,7.0,7.0,21.0,12.0,
+S_P134,Hiking Boots,White,Shoes,106.24,"5,6,7,8,9,10,11,12,13",,,,,,,5.0,10.0,6.0,20.0,16.0,22.0,22.0,22.0,10.0,
+S_P135,Hiking Boots,Blue,Shoes,106.24,"5,6,7,8,9,10,11,12,13",,,,,,,19.0,15.0,17.0,17.0,12.0,21.0,16.0,12.0,21.0,
+S_P136,Hiking Boots,Brown,Shoes,106.24,"5,6,7,8,9,10,11,12,13",,,,,,,22.0,4.0,22.0,6.0,9.0,23.0,9.0,11.0,24.0,
+S_P137,Hiking Boots,Red,Shoes,106.24,"5,6,7,8,9,10,11,12,13",,,,,,,5.0,8.0,10.0,8.0,20.0,5.0,8.0,3.0,16.0,
+S_P138,Hiking Boots,Gray,Shoes,106.24,"5,6,7,8,9,10,11,12,13",,,,,,,17.0,25.0,22.0,18.0,12.0,4.0,10.0,12.0,25.0,
+S_P139,Hiking Boots,Navy,Shoes,106.24,"5,6,7,8,9,10,11,12,13",,,,,,,12.0,25.0,17.0,5.0,24.0,10.0,11.0,23.0,21.0,
+S_P140,Hiking Boots,Beige,Shoes,106.24,"5,6,7,8,9,10,11,12,13",,,,,,,24.0,9.0,16.0,6.0,20.0,10.0,23.0,7.0,11.0,
+S_P141,Sandals,Black,Shoes,93.12,"5,6,7,8,9,10,11,12,13",,,,,,,7.0,5.0,4.0,8.0,12.0,22.0,21.0,12.0,17.0,
+S_P142,Sandals,White,Shoes,93.12,"5,6,7,8,9,10,11,12,13",,,,,,,6.0,17.0,25.0,12.0,25.0,15.0,11.0,19.0,20.0,
+S_P143,Sandals,Blue,Shoes,93.12,"5,6,7,8,9,10,11,12,13",,,,,,,18.0,17.0,5.0,22.0,4.0,16.0,13.0,22.0,11.0,
+S_P144,Sandals,Brown,Shoes,93.12,"5,6,7,8,9,10,11,12,13",,,,,,,3.0,5.0,10.0,24.0,21.0,21.0,3.0,24.0,11.0,
+S_P145,Sandals,Red,Shoes,93.12,"5,6,7,8,9,10,11,12,13",,,,,,,21.0,4.0,8.0,18.0,19.0,23.0,17.0,11.0,8.0,
+S_P146,Sandals,Gray,Shoes,93.12,"5,6,7,8,9,10,11,12,13",,,,,,,21.0,16.0,23.0,18.0,5.0,18.0,14.0,16.0,13.0,
+S_P147,Sandals,Navy,Shoes,93.12,"5,6,7,8,9,10,11,12,13",,,,,,,13.0,24.0,6.0,8.0,13.0,16.0,25.0,18.0,12.0,
+S_P148,Sandals,Beige,Shoes,93.12,"5,6,7,8,9,10,11,12,13",,,,,,,24.0,15.0,20.0,4.0,17.0,5.0,13.0,11.0,13.0,
+S_P149,Dress Shoes,Black,Shoes,52.56,"5,6,7,8,9,10,11,12,13",,,,,,,6.0,15.0,19.0,3.0,24.0,20.0,17.0,16.0,4.0,
+S_P150,Dress Shoes,White,Shoes,52.56,"5,6,7,8,9,10,11,12,13",,,,,,,9.0,19.0,14.0,22.0,18.0,23.0,17.0,4.0,9.0,
+S_P151,Dress Shoes,Blue,Shoes,52.56,"5,6,7,8,9,10,11,12,13",,,,,,,11.0,20.0,7.0,12.0,17.0,25.0,18.0,6.0,3.0,
+S_P152,Dress Shoes,Brown,Shoes,52.56,"5,6,7,8,9,10,11,12,13",,,,,,,23.0,22.0,10.0,25.0,8.0,12.0,20.0,3.0,20.0,
+S_P153,Dress Shoes,Red,Shoes,52.56,"5,6,7,8,9,10,11,12,13",,,,,,,16.0,5.0,10.0,6.0,17.0,6.0,23.0,7.0,18.0,
+S_P154,Dress Shoes,Gray,Shoes,52.56,"5,6,7,8,9,10,11,12,13",,,,,,,25.0,12.0,19.0,25.0,11.0,16.0,18.0,18.0,10.0,
+S_P155,Dress Shoes,Navy,Shoes,52.56,"5,6,7,8,9,10,11,12,13",,,,,,,17.0,20.0,7.0,15.0,9.0,22.0,19.0,7.0,5.0,
+S_P156,Dress Shoes,Beige,Shoes,52.56,"5,6,7,8,9,10,11,12,13",,,,,,,11.0,16.0,13.0,19.0,11.0,3.0,12.0,12.0,21.0,
+S_P157,Canvas Shoes,Black,Shoes,98.66,"5,6,7,8,9,10,11,12,13",,,,,,,21.0,24.0,18.0,7.0,17.0,20.0,18.0,14.0,13.0,
+S_P158,Canvas Shoes,White,Shoes,98.66,"5,6,7,8,9,10,11,12,13",,,,,,,20.0,20.0,15.0,17.0,13.0,9.0,25.0,10.0,21.0,
+S_P159,Canvas Shoes,Blue,Shoes,98.66,"5,6,7,8,9,10,11,12,13",,,,,,,15.0,10.0,16.0,4.0,13.0,18.0,25.0,15.0,15.0,
+S_P160,Canvas Shoes,Brown,Shoes,98.66,"5,6,7,8,9,10,11,12,13",,,,,,,24.0,23.0,7.0,18.0,4.0,7.0,19.0,21.0,13.0,
+S_P161,Canvas Shoes,Red,Shoes,98.66,"5,6,7,8,9,10,11,12,13",,,,,,,6.0,17.0,6.0,19.0,17.0,3.0,7.0,16.0,23.0,
+S_P162,Canvas Shoes,Gray,Shoes,98.66,"5,6,7,8,9,10,11,12,13",,,,,,,7.0,5.0,18.0,11.0,13.0,22.0,25.0,15.0,23.0,
+S_P163,Canvas Shoes,Navy,Shoes,98.66,"5,6,7,8,9,10,11,12,13",,,,,,,5.0,13.0,24.0,20.0,15.0,13.0,23.0,25.0,18.0,
+S_P164,Canvas Shoes,Beige,Shoes,98.66,"5,6,7,8,9,10,11,12,13",,,,,,,20.0,4.0,22.0,5.0,10.0,23.0,24.0,12.0,10.0,
+S_P165,Slip-ons,Black,Shoes,126.18,"5,6,7,8,9,10,11,12,13",,,,,,,5.0,16.0,6.0,23.0,25.0,6.0,17.0,8.0,25.0,
+S_P166,Slip-ons,White,Shoes,126.18,"5,6,7,8,9,10,11,12,13",,,,,,,12.0,3.0,4.0,13.0,4.0,12.0,14.0,14.0,16.0,
+S_P167,Slip-ons,Blue,Shoes,126.18,"5,6,7,8,9,10,11,12,13",,,,,,,7.0,10.0,19.0,16.0,21.0,24.0,8.0,8.0,8.0,
+S_P168,Slip-ons,Brown,Shoes,126.18,"5,6,7,8,9,10,11,12,13",,,,,,,5.0,22.0,15.0,22.0,24.0,10.0,18.0,21.0,7.0,
+S_P169,Slip-ons,Red,Shoes,126.18,"5,6,7,8,9,10,11,12,13",,,,,,,10.0,17.0,23.0,11.0,17.0,11.0,24.0,3.0,17.0,
+S_P170,Slip-ons,Gray,Shoes,126.18,"5,6,7,8,9,10,11,12,13",,,,,,,12.0,24.0,20.0,8.0,5.0,17.0,14.0,21.0,12.0,
+S_P171,Slip-ons,Navy,Shoes,126.18,"5,6,7,8,9,10,11,12,13",,,,,,,23.0,16.0,25.0,11.0,17.0,12.0,9.0,15.0,18.0,
+S_P172,Slip-ons,Beige,Shoes,126.18,"5,6,7,8,9,10,11,12,13",,,,,,,6.0,10.0,15.0,21.0,14.0,21.0,12.0,25.0,12.0,
+S_P173,High Heels,Black,Shoes,25.81,"5,6,7,8,9,10,11,12,13",,,,,,,3.0,24.0,15.0,11.0,3.0,21.0,24.0,4.0,22.0,
+S_P174,High Heels,White,Shoes,25.81,"5,6,7,8,9,10,11,12,13",,,,,,,18.0,12.0,10.0,22.0,14.0,10.0,23.0,9.0,22.0,
+S_P175,High Heels,Blue,Shoes,25.81,"5,6,7,8,9,10,11,12,13",,,,,,,11.0,24.0,24.0,24.0,7.0,23.0,6.0,23.0,23.0,
+S_P176,High Heels,Brown,Shoes,25.81,"5,6,7,8,9,10,11,12,13",,,,,,,4.0,12.0,17.0,4.0,21.0,14.0,7.0,5.0,12.0,
+S_P177,High Heels,Red,Shoes,25.81,"5,6,7,8,9,10,11,12,13",,,,,,,13.0,16.0,8.0,9.0,7.0,20.0,14.0,19.0,19.0,
+S_P178,High Heels,Gray,Shoes,25.81,"5,6,7,8,9,10,11,12,13",,,,,,,11.0,8.0,11.0,18.0,12.0,13.0,6.0,17.0,5.0,
+S_P179,High Heels,Navy,Shoes,25.81,"5,6,7,8,9,10,11,12,13",,,,,,,7.0,10.0,24.0,24.0,15.0,20.0,14.0,5.0,15.0,
+S_P180,High Heels,Beige,Shoes,25.81,"5,6,7,8,9,10,11,12,13",,,,,,,3.0,11.0,20.0,6.0,17.0,14.0,24.0,24.0,11.0,
+A_P181,Baseball Cap,Black,Accessories,61.41,One Size,,,,,,,,,,,,,,,,21.0
+A_P182,Baseball Cap,White,Accessories,61.41,One Size,,,,,,,,,,,,,,,,15.0
+A_P183,Baseball Cap,Blue,Accessories,61.41,One Size,,,,,,,,,,,,,,,,23.0
+A_P184,Baseball Cap,Red,Accessories,61.41,One Size,,,,,,,,,,,,,,,,14.0
+A_P185,Baseball Cap,Gray,Accessories,61.41,One Size,,,,,,,,,,,,,,,,6.0
+A_P186,Baseball Cap,Brown,Accessories,61.41,One Size,,,,,,,,,,,,,,,,24.0
+A_P187,Baseball Cap,Navy,Accessories,61.41,One Size,,,,,,,,,,,,,,,,10.0
+A_P188,Baseball Cap,Green,Accessories,61.41,One Size,,,,,,,,,,,,,,,,18.0
+A_P189,Scarf,Black,Accessories,53.87,One Size,,,,,,,,,,,,,,,,3.0
+A_P190,Scarf,White,Accessories,53.87,One Size,,,,,,,,,,,,,,,,22.0
+A_P191,Scarf,Blue,Accessories,53.87,One Size,,,,,,,,,,,,,,,,20.0
+A_P192,Scarf,Red,Accessories,53.87,One Size,,,,,,,,,,,,,,,,13.0
+A_P193,Scarf,Gray,Accessories,53.87,One Size,,,,,,,,,,,,,,,,22.0
+A_P194,Scarf,Brown,Accessories,53.87,One Size,,,,,,,,,,,,,,,,10.0
+A_P195,Scarf,Navy,Accessories,53.87,One Size,,,,,,,,,,,,,,,,23.0
+A_P196,Scarf,Green,Accessories,53.87,One Size,,,,,,,,,,,,,,,,5.0
+A_P197,Backpack,Black,Accessories,28.82,One Size,,,,,,,,,,,,,,,,23.0
+A_P198,Backpack,White,Accessories,28.82,One Size,,,,,,,,,,,,,,,,17.0
+A_P199,Backpack,Blue,Accessories,28.82,One Size,,,,,,,,,,,,,,,,25.0
+A_P200,Backpack,Red,Accessories,28.82,One Size,,,,,,,,,,,,,,,,12.0
+A_P201,Backpack,Gray,Accessories,28.82,One Size,,,,,,,,,,,,,,,,23.0
+A_P202,Backpack,Brown,Accessories,28.82,One Size,,,,,,,,,,,,,,,,16.0
+A_P203,Backpack,Navy,Accessories,28.82,One Size,,,,,,,,,,,,,,,,6.0
+A_P204,Backpack,Green,Accessories,28.82,One Size,,,,,,,,,,,,,,,,7.0
+A_P205,Beanie,Black,Accessories,15.88,One Size,,,,,,,,,,,,,,,,4.0
+A_P206,Beanie,White,Accessories,15.88,One Size,,,,,,,,,,,,,,,,4.0
+A_P207,Beanie,Blue,Accessories,15.88,One Size,,,,,,,,,,,,,,,,12.0
+A_P208,Beanie,Red,Accessories,15.88,One Size,,,,,,,,,,,,,,,,18.0
+A_P209,Beanie,Gray,Accessories,15.88,One Size,,,,,,,,,,,,,,,,6.0
+A_P210,Beanie,Brown,Accessories,15.88,One Size,,,,,,,,,,,,,,,,6.0
+A_P211,Beanie,Navy,Accessories,15.88,One Size,,,,,,,,,,,,,,,,10.0
+A_P212,Beanie,Green,Accessories,15.88,One Size,,,,,,,,,,,,,,,,20.0
+A_P213,Sunglasses,Black,Accessories,72.0,One Size,,,,,,,,,,,,,,,,7.0
+A_P214,Sunglasses,White,Accessories,72.0,One Size,,,,,,,,,,,,,,,,15.0
+A_P215,Sunglasses,Blue,Accessories,72.0,One Size,,,,,,,,,,,,,,,,17.0
+A_P216,Sunglasses,Red,Accessories,72.0,One Size,,,,,,,,,,,,,,,,14.0
+A_P217,Sunglasses,Gray,Accessories,72.0,One Size,,,,,,,,,,,,,,,,24.0
+A_P218,Sunglasses,Brown,Accessories,72.0,One Size,,,,,,,,,,,,,,,,25.0
+A_P219,Sunglasses,Navy,Accessories,72.0,One Size,,,,,,,,,,,,,,,,20.0
+A_P220,Sunglasses,Green,Accessories,72.0,One Size,,,,,,,,,,,,,,,,16.0
+A_P221,Watch,Black,Accessories,28.56,One Size,,,,,,,,,,,,,,,,21.0
+A_P222,Watch,White,Accessories,28.56,One Size,,,,,,,,,,,,,,,,7.0
+A_P223,Watch,Blue,Accessories,28.56,One Size,,,,,,,,,,,,,,,,16.0
+A_P224,Watch,Red,Accessories,28.56,One Size,,,,,,,,,,,,,,,,23.0
+A_P225,Watch,Gray,Accessories,28.56,One Size,,,,,,,,,,,,,,,,6.0
+A_P226,Watch,Brown,Accessories,28.56,One Size,,,,,,,,,,,,,,,,18.0
+A_P227,Watch,Navy,Accessories,28.56,One Size,,,,,,,,,,,,,,,,22.0
+A_P228,Watch,Green,Accessories,28.56,One Size,,,,,,,,,,,,,,,,16.0
+A_P229,Belt,Black,Accessories,11.49,One Size,,,,,,,,,,,,,,,,11.0
+A_P230,Belt,White,Accessories,11.49,One Size,,,,,,,,,,,,,,,,4.0
+A_P231,Belt,Blue,Accessories,11.49,One Size,,,,,,,,,,,,,,,,25.0
+A_P232,Belt,Red,Accessories,11.49,One Size,,,,,,,,,,,,,,,,14.0
+A_P233,Belt,Gray,Accessories,11.49,One Size,,,,,,,,,,,,,,,,9.0
+A_P234,Belt,Brown,Accessories,11.49,One Size,,,,,,,,,,,,,,,,17.0
+A_P235,Belt,Navy,Accessories,11.49,One Size,,,,,,,,,,,,,,,,17.0
+A_P236,Belt,Green,Accessories,11.49,One Size,,,,,,,,,,,,,,,,10.0
+A_P237,Socks,Black,Accessories,11.77,One Size,,,,,,,,,,,,,,,,14.0
+A_P238,Socks,White,Accessories,11.77,One Size,,,,,,,,,,,,,,,,6.0
+A_P239,Socks,Blue,Accessories,11.77,One Size,,,,,,,,,,,,,,,,24.0
+A_P240,Socks,Red,Accessories,11.77,One Size,,,,,,,,,,,,,,,,14.0
+A_P241,Socks,Gray,Accessories,11.77,One Size,,,,,,,,,,,,,,,,20.0
+A_P242,Socks,Brown,Accessories,11.77,One Size,,,,,,,,,,,,,,,,23.0
+A_P243,Socks,Navy,Accessories,11.77,One Size,,,,,,,,,,,,,,,,14.0
+A_P244,Socks,Green,Accessories,11.77,One Size,,,,,,,,,,,,,,,,4.0
+A_P245,Gloves,Black,Accessories,64.32,One Size,,,,,,,,,,,,,,,,15.0
+A_P246,Gloves,White,Accessories,64.32,One Size,,,,,,,,,,,,,,,,11.0
+A_P247,Gloves,Blue,Accessories,64.32,One Size,,,,,,,,,,,,,,,,9.0
+A_P248,Gloves,Red,Accessories,64.32,One Size,,,,,,,,,,,,,,,,6.0
+A_P249,Gloves,Gray,Accessories,64.32,One Size,,,,,,,,,,,,,,,,17.0
+A_P250,Gloves,Brown,Accessories,64.32,One Size,,,,,,,,,,,,,,,,5.0
+A_P251,Gloves,Navy,Accessories,64.32,One Size,,,,,,,,,,,,,,,,24.0
+A_P252,Gloves,Green,Accessories,64.32,One Size,,,,,,,,,,,,,,,,9.0
+A_P253,Hat,Black,Accessories,47.26,One Size,,,,,,,,,,,,,,,,23.0
+A_P254,Hat,White,Accessories,47.26,One Size,,,,,,,,,,,,,,,,23.0
+A_P255,Hat,Blue,Accessories,47.26,One Size,,,,,,,,,,,,,,,,22.0
+A_P256,Hat,Red,Accessories,47.26,One Size,,,,,,,,,,,,,,,,3.0
+A_P257,Hat,Gray,Accessories,47.26,One Size,,,,,,,,,,,,,,,,4.0
+A_P258,Hat,Brown,Accessories,47.26,One Size,,,,,,,,,,,,,,,,13.0
+A_P259,Hat,Navy,Accessories,47.26,One Size,,,,,,,,,,,,,,,,10.0
+A_P260,Hat,Green,Accessories,47.26,One Size,,,,,,,,,,,,,,,,7.0
+A_P261,Tie,Black,Accessories,61.5,One Size,,,,,,,,,,,,,,,,21.0
+A_P262,Tie,White,Accessories,61.5,One Size,,,,,,,,,,,,,,,,9.0
+A_P263,Tie,Blue,Accessories,61.5,One Size,,,,,,,,,,,,,,,,5.0
+A_P264,Tie,Red,Accessories,61.5,One Size,,,,,,,,,,,,,,,,20.0
+A_P265,Tie,Gray,Accessories,61.5,One Size,,,,,,,,,,,,,,,,9.0
+A_P266,Tie,Brown,Accessories,61.5,One Size,,,,,,,,,,,,,,,,21.0
+A_P267,Tie,Navy,Accessories,61.5,One Size,,,,,,,,,,,,,,,,9.0
+A_P268,Tie,Green,Accessories,61.5,One Size,,,,,,,,,,,,,,,,10.0
+A_P269,Wallet,Black,Accessories,56.08,One Size,,,,,,,,,,,,,,,,13.0
+A_P270,Wallet,White,Accessories,56.08,One Size,,,,,,,,,,,,,,,,7.0
+A_P271,Wallet,Blue,Accessories,56.08,One Size,,,,,,,,,,,,,,,,22.0
+A_P272,Wallet,Red,Accessories,56.08,One Size,,,,,,,,,,,,,,,,3.0
+A_P273,Wallet,Gray,Accessories,56.08,One Size,,,,,,,,,,,,,,,,11.0
+A_P274,Wallet,Brown,Accessories,56.08,One Size,,,,,,,,,,,,,,,,7.0
+A_P275,Wallet,Navy,Accessories,56.08,One Size,,,,,,,,,,,,,,,,7.0
+A_P276,Wallet,Green,Accessories,56.08,One Size,,,,,,,,,,,,,,,,20.0
+A_P277,Bag,Black,Accessories,42.54,One Size,,,,,,,,,,,,,,,,11.0
+A_P278,Bag,White,Accessories,42.54,One Size,,,,,,,,,,,,,,,,8.0
+A_P279,Bag,Blue,Accessories,42.54,One Size,,,,,,,,,,,,,,,,6.0
+A_P280,Bag,Red,Accessories,42.54,One Size,,,,,,,,,,,,,,,,24.0
+A_P281,Bag,Gray,Accessories,42.54,One Size,,,,,,,,,,,,,,,,3.0
+A_P282,Bag,Brown,Accessories,42.54,One Size,,,,,,,,,,,,,,,,7.0
+A_P283,Bag,Navy,Accessories,42.54,One Size,,,,,,,,,,,,,,,,3.0
+A_P284,Bag,Green,Accessories,42.54,One Size,,,,,,,,,,,,,,,,14.0
+A_P285,Umbrella,Black,Accessories,73.12,One Size,,,,,,,,,,,,,,,,10.0
+A_P286,Umbrella,White,Accessories,73.12,One Size,,,,,,,,,,,,,,,,21.0
+A_P287,Umbrella,Blue,Accessories,73.12,One Size,,,,,,,,,,,,,,,,13.0
+A_P288,Umbrella,Red,Accessories,73.12,One Size,,,,,,,,,,,,,,,,3.0
+A_P289,Umbrella,Gray,Accessories,73.12,One Size,,,,,,,,,,,,,,,,8.0
+A_P290,Umbrella,Brown,Accessories,73.12,One Size,,,,,,,,,,,,,,,,11.0
+A_P291,Umbrella,Navy,Accessories,73.12,One Size,,,,,,,,,,,,,,,,4.0
+A_P292,Umbrella,Green,Accessories,73.12,One Size,,,,,,,,,,,,,,,,7.0
+A_P293,Headphones,Black,Accessories,31.5,One Size,,,,,,,,,,,,,,,,16.0
+A_P294,Headphones,White,Accessories,31.5,One Size,,,,,,,,,,,,,,,,19.0
+A_P295,Headphones,Blue,Accessories,31.5,One Size,,,,,,,,,,,,,,,,6.0
+A_P296,Headphones,Red,Accessories,31.5,One Size,,,,,,,,,,,,,,,,5.0
+A_P297,Headphones,Gray,Accessories,31.5,One Size,,,,,,,,,,,,,,,,18.0
+A_P298,Headphones,Brown,Accessories,31.5,One Size,,,,,,,,,,,,,,,,17.0
+A_P299,Headphones,Navy,Accessories,31.5,One Size,,,,,,,,,,,,,,,,14.0
+A_P300,Headphones,Green,Accessories,31.5,One Size,,,,,,,,,,,,,,,,19.0
