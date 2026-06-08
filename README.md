@@ -23,18 +23,10 @@ are price inquiry, availability check, size question, product search, complex mu
 
 ## Pipeline
 The full structure of this project will consist of:
-Customer query
-TF-IDF vectorization
-Logistic regression / catBoost intent classification
-Rule-based entity extraction
-SentenceTransformer embeddings
-Cosine similarity product retrieval
-Inventory stock check
-Template-grounded answer generation
-Purchase and real-time inventory update
+Customer query, TF-IDF vectorization, Logistic regression / catBoost intent classification, Rule-based entity extraction, SentenceTransformer embeddings, Cosine similarity product retrieval, Inventory stock check, Template-grounded answer generation, Purchase and real-time inventory update
 
-## Requirements
+## Packages 
 pandas, numpy, scikit-learn, catboost, sentence-transformers, torch, matplotlib
 
 ## Author
-SaraVotey Mom (Dartmouth '27) QSS 45, 2026
+SaraVotey Mom (Dartmouth '27 Studying Economics and Quantitative Social Science) QSS 45, 2026
