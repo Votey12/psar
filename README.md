@@ -4,11 +4,7 @@ Psar (ផ្សារ | meaning "market" in Khmer) is an AI-powered inquiry inte
 CatBoost and RAG to retrieve answers to buyer questions. 
 
 ## Directory Structure
-psar/
-├── code/       #jupyter notebook
-├── data/       #datasets (catalog, queries)
-├── output/     #figures
-└── README.md 
+psar/ directory has code/, data/, output/ and README.md
 
 ### 00_psar_inquiry_intelligence.ipynb
 - Inputs: ../data/psar_catalog.csv, ../data/psar_queries.csv
@@ -26,24 +22,19 @@ are price inquiry, availability check, size question, product search, complex mu
 - 4 figures 
 
 ## Pipeline
+The full structure of this project will consist of:
 Customer query
-→ TF-IDF vectorization
-→ CatBoost intent classification
-→ Rule-based entity extraction
-→ SentenceTransformer product retrieval
-→ Inventory stock check
-→ Grounded answer generation
-→ Real-time inventory update
-
-## Results
-- Intent classification: 99.07% accuracy (CatBoost)
-- RAG retrieval: 90% accuracy across 20 trials
-- Inventory trials: 7 successful purchases,
-  1 failed (insufficient stock)
+TF-IDF vectorization
+Logistic regression / catBoost intent classification
+Rule-based entity extraction
+SentenceTransformer embeddings
+Cosine similarity product retrieval
+Inventory stock check
+Template-grounded answer generation
+Purchase and real-time inventory update
 
 ## Requirements
-pandas, numpy, scikit-learn, catboost,
-sentence-transformers, torch, matplotlib
+pandas, numpy, scikit-learn, catboost, sentence-transformers, torch, matplotlib
 
 ## Author
-SaraVotey Mom — QSS 45, 2026
+SaraVotey Mom (Dartmouth '27) QSS 45, 2026
