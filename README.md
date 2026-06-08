@@ -1,46 +1,29 @@
 # Psar: E-Commerce Inquiry Intelligence
 
-Psar (ផ្សារ — market in Khmer) is an AI-powered
-inquiry intelligence system for Cambodian social
-commerce. It combines TF-IDF intent classification,
-CatBoost, and RAG-based product retrieval to answer
-buyer questions and manage live inventory.
+Psar (ផ្សារ | meaning "market" in Khmer) is an AI-powered inquiry intelligence system for Cambodian social commerce. It combines intent classification,
+CatBoost and RAG to retrieve answers to buyer questions. 
 
 ## Directory Structure
 psar/
-├── code/       # notebooks
-├── data/       # input datasets
-├── output/     # figures and results
-└── README.md
-
-## Notebook
+├── code/       #jupyter notebook
+├── data/       #datasets (catalog, queries)
+├── output/     #figures
+└── README.md 
 
 ### 00_psar_inquiry_intelligence.ipynb
-- Inputs: ../data/psar_catalog.csv,
-  ../data/psar_queries.csv
-- Function: Full end-to-end pipeline including
-  data loading, product object construction,
-  live inventory initialization, TF-IDF vectorization,
-  Logistic Regression and CatBoost intent
-  classification, rule-based entity extraction,
-  SentenceTransformer embeddings, cosine similarity
-  product retrieval, inventory-grounded answer
-  generation, multi-turn chatbot memory,
-  20 structured inventory trials, and
-  result visualization
-- Outputs: trial_df, purchase_df, stock_audit_df,
-  f1.png, inventory_depletion.png,
-  inventory_trials.png, rag_retrieval.png
+- Inputs: ../data/psar_catalog.csv, ../data/psar_queries.csv
+- It is the full end-to-end pipeline for the Psar system, including data loading, product object construction,live inventory initialization, TF-IDF vectorization,
+Logistic Regression and CatBoost intent, classification, rule-based entity extraction, SentenceTransformer embeddings, cosine similarity, product retrieval
+- The section Chatbot is an integrated chatbot in which you can test Psar and try to ask questions about any products. A set of Recommended Live Demo Questions is included. 
 
 ## Data
-- psar_catalog.csv: 300 products across Clothing,
-  Shoes, and Accessories with stock by size
-- psar_queries.csv: 360 labeled queries across
-  6 intent classes
+- psar_catalog.csv. This dataset consists of 300 products with various information about each product, such as price, size, and color. 
+- psar_queries.csv. This is a dataset of 360 queries. The six intent classes
+are price inquiry, availability check, size question, product search, complex multicriteria, and other.
 
-## Models
-- Logistic Regression: 98.15% accuracy (baseline)
-- CatBoost: 99.07% accuracy (primary classifier)
+## Output
+- Results for Logistic Regression is 98.15% accuracy, and CatBoost is 99.07% accuracy
+- 4 figures 
 
 ## Pipeline
 Customer query
